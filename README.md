@@ -4,6 +4,8 @@ in this repository i had designed the robot base with consideration of of the br
 
 its dimensions:
 
-width: 560mm
+width: 610 mm
 
-length: 
+length: 610 mm
+
+Height: 200 mm
